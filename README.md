@@ -1,5 +1,5 @@
 
-# Hi there, I'm muhammadramzan787 👋
+# Hi there, I'm Muhammad Ramzan 👋
 
 I'm a software engineer passionate about web and application development .
 
